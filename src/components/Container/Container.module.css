@@ -1,0 +1,7 @@
+.feedbackContainer {
+  text-align: center;
+  max-width: 500px;
+  padding: 20px;
+  background-color: rgb(167, 166, 166);
+  border-radius: 10px;
+}
